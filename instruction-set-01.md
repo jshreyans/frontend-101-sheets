@@ -1,7 +1,7 @@
 # Instruction Set 01
 ## Setup your repository
 
-* Create a GitHub repository under you account with the name `frontend-101`. 
+* Create a GitHub repository under your account with the name `frontend-101`. 
 * While creating the repo, initialise it with a README file. You will see the option when creating the repo as in the image below:
 
 ![](./ss/readme.png)
@@ -12,7 +12,8 @@
     - chirag-singhal
     - Akshit-Patel
 * On your repo page, create a Project board. More about this in the next instruction set.
-* Congratulations! Your repo setup is complete. You can now proceed to the next instruction set.
+* Congratulations!:clap: 
+Your repo setup is complete. You can now proceed to [Instruction Set-2]((https://github.com/jshreyans/frontend-101-sheets/blob/master/instruction-set-02.md)).
 * After all your tasks are complete. your repo's directory structure should look something like this:
 ```
     frontend-101

@@ -22,4 +22,4 @@ But worry not, these assignments will help streamline things greatly!
 * In case of any doubts, Google them. Don’t copy code from stack overflow, understand it!
 * Many tasks in these sets might not be trivial for you.That’s alright! The purpose is to learn!
 
-_You can now refer to Instruction Set 01 for further steps to follow_
+_You can now refer to [Instruction Set-1](https://github.com/jshreyans/frontend-101-sheets/blob/master/instruction-set-01.md) for further steps to follow_

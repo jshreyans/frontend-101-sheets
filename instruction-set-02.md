@@ -9,7 +9,7 @@ You will be creating a similar project board for frontend-101
 3. Once inside the project, create 3 columns – To do, In Review, Completed
 4. Your project board should now look something like this: 
 
-![](./board.png)
+![](./ss/board.png)
 
 5. Everytime you complete a task, create an issue. Give a title in the format `taskCode - title`. For eg, `A3-Trippy Grid`. Providing a short description of the logic used for the Javascript tasks would be a plus. 
 6. On the side, you will find a menu which contains options like `Assignees` and `Projects`. Assign the issue to all the 2nd years and select the project you created in the Projects option so that we can view it on the board.
