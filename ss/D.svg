@@ -1,0 +1,18 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+    <title> D 
+    </title>
+    <polygon points="586 384 521 127 536 384 586 384" fill="#161925"/>
+    <polygon points="521 620 536 384 586 384 521 620" fill="#eff6ee"/>
+    <polygon points="586 384 608 620 521 620 586 384" fill="#ba1f33"/>
+    <polygon points="586 384 608 127 521 127 586 384" fill="#1446a0"/>
+    <polygon points="603.6 178.45 608 127 678 127 603.6 178.45" fill="#ba1f33"/>
+    <polygon points="604 178 821 256 678 127 604 178" fill="#f5d547"/>
+    <polygon points="821 256 749.41 230.27 851 384 821 256" fill="#eff6ee"/>
+    <polyline points="678 127 777 162 821 256" fill="#161925"/>
+    <polyline points="749 230 793 384 851 384" fill="#1446a0"/>
+    <polygon points="603.6 572.96 608 620 678 620 603.6 572.96" fill="#f5d547"/>
+    <polygon points="604 573.37 821 502.04 678 620 604 573.37" fill="#1446a0"/>
+    <polygon points="821 502.04 749.41 525.57 851 385 821 502.04" fill="#161925"/>
+    <polyline points="678 620 777 588 821 502.04" fill="#ba1f33"/>
+    <polyline points="749 525.82 793 384 851 385" fill="#f5d547"/>
+</svg>
