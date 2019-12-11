@@ -13,7 +13,7 @@
     - Akshit-Patel
 * On your repo page, create a Project board. More about this in the next instruction set.
 * Congratulations!:clap: 
-Your repo setup is complete. You can now proceed to [Instruction Set-2]((https://github.com/jshreyans/frontend-101-sheets/blob/master/instruction-set-02.md)).
+Your repo setup is complete. You can now proceed to [Instruction Set-2](https://github.com/jshreyans/frontend-101-sheets/blob/master/instruction-set-02.md).
 * After all your tasks are complete. your repo's directory structure should look something like this:
 ```
     frontend-101
